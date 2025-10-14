@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Cooper Sizemore, a motivated **computer science** student graduating from **NC State** in May 2027! I'm passionate about solving complex, real problems using software and providing useful and valuable software solutions to people. To me, software is about **people**, as it gives us a chance to solve problems for all kinds of people at a massive scale, and that notion is what drives me as a software engineer.
+I'm **Cooper Sizemore**, a motivated **computer science** student graduating from **NC State** in May 2027! I'm passionate about solving complex, real problems using software and providing useful and valuable software solutions to people. To me, software is about **people**, as it gives us a chance to solve problems for all kinds of people at a massive scale, and that notion is what drives me as a software engineer.
 
 ![Picture of Me](https://github.com/coopersizemore/coopersizemore/blob/main/IMG_3864_6_300x400.jpg?raw=true)
 
