@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm a motivated computer science student graduating from NC State in May 2027! 
 
-
+![IMG_3864.jpg]()
 
 Check out [Interview Arcade](https://github.com/coopersizemore/InterviewArcade) my HackNC 2025 1st Place winning Hackathon Project where my team and I built a mock technical interview tool powered by AI in 24 hours!
 
