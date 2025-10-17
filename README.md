@@ -3,6 +3,8 @@ I'm **Cooper Sizemore**, a motivated **computer science** student graduating fro
 
 ![Picture of Me](https://github.com/coopersizemore/coopersizemore/blob/main/IMG_3864_6_300x400.jpg?raw=true)
 
+Here's one of my favorite songs as of late: [Nico's Red Truck](https://youtu.be/67XywPetQCA)
+
 ## Projects! 👨‍💻
 
 Check out [Interview Arcade](https://github.com/coopersizemore/InterviewArcade), my HackNC 2025 **1st Place winning** Hackathon Project where my team and I built a mock technical interview tool powered by AI in 24 hours!
