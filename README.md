@@ -31,4 +31,4 @@ Previously, I've taken: Data Structures And Algorithms, C/Software Tools, Theory
 
 Previously, I've interned as a Software Engineer at [CTI](https://www.ctic.us/), a Defense company creating innovative software for the invisible battlespace: technology.
 
-I'm looking for Software based internships for the summer of 2026 currently at companies that are solving really cool problems with really cool software!
+This summer, I'm interning at Fidelity Investments as a Software Engineering Intern.
